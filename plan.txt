@@ -1,0 +1,14 @@
+ 1: Intro WPF - lær objektorientering via rammeverk for grafiske brukergrensesnitt
+    - enkel clicker uten OO
+    - med OO
+    - preview arv
+
+ 2: Single Responsibility Principle
+    - SOLID
+    - hvordan bryter gammel versjon med dette prinsippet?
+      - https://github.com/GetAcademy/TowersOfHanoiOoad
+    - ny versjon av Towers of Hanoi i Console - med separat logikk
+      - dele opp i prosjekter/pakker = få hjelp av visual studio til å håndheve 
+      - kort om List<> og Stack<>
+
+ 3: Towers of Hanoi i WPF med samme logikk
