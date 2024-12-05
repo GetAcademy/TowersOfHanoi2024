@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowersOfHanoi2024.ConsoleUI", "TowersOfHanoi2024.ConsoleUI\TowersOfHanoi2024.ConsoleUI.csproj", "{EA7A3880-C4E1-4233-8158-92DAD2510B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowersOfHanoi2024.Logic", "TowersOfHanoi2024.Logic\TowersOfHanoi2024.Logic.csproj", "{437D5CB7-6585-4442-9007-BEE7D331F46C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA7A3880-C4E1-4233-8158-92DAD2510B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7A3880-C4E1-4233-8158-92DAD2510B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7A3880-C4E1-4233-8158-92DAD2510B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7A3880-C4E1-4233-8158-92DAD2510B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437D5CB7-6585-4442-9007-BEE7D331F46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437D5CB7-6585-4442-9007-BEE7D331F46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437D5CB7-6585-4442-9007-BEE7D331F46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437D5CB7-6585-4442-9007-BEE7D331F46C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
